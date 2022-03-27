@@ -8,9 +8,11 @@ The purpose of the exercise is to apply machine learning to credit risk - which 
 NAIVE RANDOM OVERSAMPLING 
 
  The balanced accuracy score is (64.63%) 
+ 
  The low risk precision score is (100%) - sensitivity of (58%) 
+ 
  The high risk precision score is (1%) - sensitivity of 71%
- The low risk recall score is (58%), as is the average recall score .
+ 
 
 
 ![image](https://user-images.githubusercontent.com/91917546/160301393-3d55717b-b98e-4f90-861c-ade8ed11c334.png)
@@ -18,7 +20,9 @@ NAIVE RANDOM OVERSAMPLING
 
 SMOTE OVERSAMPLING
  The balanced accuracy score is (65.86%) 
+ 
  The low risk precision score is (100%) - sensitivity of (68%) 
+ 
  The high risk precision score is (1%0 - sensitivity of (63%)
  
  
@@ -26,13 +30,17 @@ SMOTE OVERSAMPLING
 
 UNDERSAMPLING
  The balanced accuracy score is (60.19%) 
+ 
  The low risk precision score is (100%) - sensitivity of (52%) 
+ 
   The high risk precision score is (1%) - sensitivity of (68%) 
 ![image](https://user-images.githubusercontent.com/91917546/160301450-23852f27-00c5-45ba-b1af-fc8f19ad03fd.png)
 
 COMBINATION
  The balanced accuracy score is (64.80%) 
+ 
  The low risk precision score is (100%) - sensitivity of (57%) 
+ 
  The high risk precision score is (1%) - sensitivity of (72%) 
  
  
@@ -41,7 +49,9 @@ COMBINATION
 
 BALANCED RANDOM FOREST CLASSIFIER 
  The balanced accuracy score is (78.85%) 
+ 
  The low risk precision score is (100%) - sensitivity of (87%) 
+ 
  The high risk precision score is (3%) - sensitivity of (70%)
  
  
@@ -49,7 +59,9 @@ BALANCED RANDOM FOREST CLASSIFIER
 
 EASY ENSEMBLE CLASSIFIER
  The balanced accuracy score is (93.17%) 
+ 
  The low risk precision score is (100%) - sensitivity of (94%) 
+ 
  The high risk precision score is (9%) - sensitivity of (92%)
 
 
