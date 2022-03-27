@@ -20,6 +20,8 @@ SMOTE OVERSAMPLING
  The balanced accuracy score is (65.86%) 
  The low risk precision score is (100%) - sensitivity of (68%) 
  The high risk precision score is (1%0 - sensitivity of (63%)
+ 
+ 
 ![image](https://user-images.githubusercontent.com/91917546/160301424-e75725c4-8b51-496a-8c11-bcfba2e5aad8.png)
 
 UNDERSAMPLING
@@ -32,6 +34,8 @@ COMBINATION
  The balanced accuracy score is (64.80%) 
  The low risk precision score is (100%) - sensitivity of (57%) 
  The high risk precision score is (1%) - sensitivity of (72%) 
+ 
+ 
 ![image](https://user-images.githubusercontent.com/91917546/160301561-d8524931-924f-47e7-aa25-530d92214a68.png)
 
 
@@ -39,12 +43,15 @@ BALANCED RANDOM FOREST CLASSIFIER
  The balanced accuracy score is (78.85%) 
  The low risk precision score is (100%) - sensitivity of (87%) 
  The high risk precision score is (3%) - sensitivity of (70%)
+ 
+ 
 ![image](https://user-images.githubusercontent.com/91917546/160301595-bbd7bbb8-482b-4b72-aedf-ed6c22a4cc7b.png)
 
 EASY ENSEMBLE CLASSIFIER
  The balanced accuracy score is (93.17%) 
  The low risk precision score is (100%) - sensitivity of (94%) 
  The high risk precision score is (9%) - sensitivity of (92%)
+
 
 ![image](https://user-images.githubusercontent.com/91917546/160301626-01ac63c8-8ac9-4b7b-9ae5-bc862da25097.png)
 
