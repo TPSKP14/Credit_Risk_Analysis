@@ -30,6 +30,7 @@ SMOTE OVERSAMPLING
 ![image](https://user-images.githubusercontent.com/91917546/160301424-e75725c4-8b51-496a-8c11-bcfba2e5aad8.png)
 
 UNDERSAMPLING
+
  The balanced accuracy score is (60.19%) 
  
  The low risk precision score is (100%) - sensitivity of (52%) 
