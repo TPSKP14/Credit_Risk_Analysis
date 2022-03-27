@@ -1,6 +1,8 @@
 
 **CREDIT RISK ANALYSIS**
+
 **OVERVIEW**
+
 The purpose of the exercise is to apply machine learning to credit risk - which is an inherently unbalanced classification problem.  We are trying to predict high risk loans using a dataset from LendingClub, a company that provides credit card data.  We looked at 6 different machine learning models in order to accurately sample all of the data.  We first oversampled, then undersampled.  After that, we used a combinational over and under sampling approach - before finally using two machine learning models to most accurately predict credit risk.
 
 
